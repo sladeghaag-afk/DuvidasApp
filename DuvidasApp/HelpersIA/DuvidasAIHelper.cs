@@ -10,9 +10,10 @@ namespace DuvidasApp.HelpersIA
     {
         #region Atributos
 
-        private readonly string _apiKey = "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";
+        private readonly string _apiKey = " INSERIR A CHAVE A API!!!!!! :D  "; // inserir uma chave de API valida antes de rodar 
 
-        private readonly string _model = "gpt-4o-mini";
+
+        private readonly string _model = "moldeo do gpt : gpt4 ";     //gpt-4o-mini
 
 
         #endregion
